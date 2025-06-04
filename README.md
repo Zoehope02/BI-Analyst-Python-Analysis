@@ -10,3 +10,6 @@ This notebook requires the following Python libraries:
 - matplotlib
 - seaborn
 You can install them using pip
+## Dashboard Preview
+
+![Dashboard](./overview2.0.png)
