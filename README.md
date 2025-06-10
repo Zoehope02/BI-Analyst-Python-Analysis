@@ -3,18 +3,18 @@
 This project uses Python and Jupyter Notebook to explore analysis of Superstore’s sales data, with a focus on uncovering actionable insights across product performance, customer behavior, 
 and regional trends. 
 
-## Requirements
+# Requirements
 This notebook requires the following Python libraries:
 - pandas
 - numpy
 - matplotlib
 - seaborn
 You can install them using pip
-## Visualisation Preview
+# Visualisation Preview
 
 ![Dashboard](./overview2.0.png)
 
-## Cleaning The Dataset
+# Cleaning The Dataset
 
 1.  **Removed the dollar sign ($)** from both the 'Profit' and 'Sales' columns.
    - This step was crucial to enable proper numerical conversion and prevent the symbol from being misinterpreted as a text character.
